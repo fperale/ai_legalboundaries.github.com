@@ -1,0 +1,116 @@
+body {
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: grey;    
+        background-attachment: fixed;
+        margin: 0px auto;
+    overflow-x:hidden;
+   margin-left: 0px;
+
+}
+
+p{      display:block;
+        border-radius: 20px;
+        /*max-width: 50%;*/
+        text-align: justify;
+       /* width:40vw;*/
+        border-style: dashed;
+        border-width: 3px;
+        /*margin: auto;*/
+        background-color: white;
+        opacity: 100%;
+        padding: 15px;
+        width:50%;
+        position:relative;
+        left:40%;
+   
+    }
+
+
+h1{
+        font-family: 'helvetica';
+        font-size: 40px;
+        font-weight: 700;
+        word-wrap: break-word;
+        text-align: left;
+}
+
+img {
+  border-radius: 4%;
+}
+.bg {
+  /* The image used */
+  background-image: url("v");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.button {
+    font-size: 20px;
+    height: auto; 
+    width: auto;
+    background-color: orange; 
+    position: absolute; 
+    top: 5100px; 
+    left: 1240px;
+    border: 5px dotted black;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    box-shadow: 0 0 30px 0 orange,
+                0 0 30px 0 orange,
+                0 0 10px 0 orange inset";
+     }
+.button1 {
+    
+    height: auto; 
+    width: auto;
+    background-color: orange; 
+    position: absolute; 
+    top: 17px; 
+    left: 1260px;
+    border: 5px dotted black;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    box-shadow: 0 0 30px 0 orange,
+                0 0 30px 0 orange,
+                0 0 10px 0 orange inset";
+     }
+.button2 {
+    
+    height: auto; 
+    width: auto;
+    background-color: orange; 
+    position: absolute; 
+    top: 17px; 
+    left: 1350px;
+    border: 5px dotted black;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    box-shadow: 0 0 30px 0 orange,
+                0 0 30px 0 orange,
+                0 0 10px 0 orange inset";
+     }
+.button3 {
+    font-size: 60px;
+    position: absolute; 
+    top: 500px; 
+    left: 700px;
+   
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    box-shadow: 0 0 30px 0 orange,
+                0 0 30px 0 orange,
+                0 0 10px 0 orange inset";
+     }
